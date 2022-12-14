@@ -1,0 +1,15 @@
+.booksUpForSharing{
+    overflow-y: auto;
+    height: 50vh;
+    margin: 0 auto;
+}
+
+.profileSubheading{
+    text-align: left;
+    margin-left: 1.4vw;
+}
+
+.logOutButton{
+    margin-top: 5vw;
+}
+
